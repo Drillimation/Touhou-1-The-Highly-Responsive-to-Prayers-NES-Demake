@@ -1,6 +1,8 @@
 # Touhou-1-The-Highly-Responsive-to-Prayers-NES-Demake
 An NES-style adaptation of the PC-98 game. 
 
+**NOTE:** If you want to download and play the demake, please click [here](https://drillimation.itch.io/touhou-1-the-highly-responsive-to-prayers) to access its itch.io page.
+
 ***Touhou 1: The Highly Responsive to Prayers*** was originally released for the PC-98 by Team Shanghai Alice in 1996. Drillimation Systems, the developer best known for the *Chuhou Joutai* series, ported the game to PC in the style of an NES game using the GameMaker engine in 2020, just in time for the franchise's 25th anniversary. It is the first game in the highly popular Touhou Project series.
 
 The game is not a danmaku shooter like its eventual sequel, but a breakout-style puzzle game where players use a yin-yang orb to flip over tiles. The reason for its different style of gameplay was the original was a 'study project' for ZUN to practice computer programming.
