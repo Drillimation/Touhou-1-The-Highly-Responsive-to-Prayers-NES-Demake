@@ -1,0 +1,89 @@
+Touhou 1: The Highly Responsive to Prayers NES Demake
+Version 2.0.1
+(C)2020 Drillimation Systems Co., Ltd. All rights reserved
+Original by Team Shanghai Alice, adaptation by Drillimation Systems
+
+---INTRODUCTION---
+Thank you for downloading Touhou 1: The Highly Responsive to Prayers NES Demake from Drillimation Systems. Please note this software is freeware, meaning you are free to play, download, and share this software to anyone you please.
+
+---BACKSTORY---
+Once upon a time, there was a place called Gensokyo, or the Land of Illusions. Gensokyo was ruled by two races, humanoids and youkai. They both lived in balance, bringing peace to the world. But one day, this peacefulness shattered, and a terrible calamity occurred. War broke out between the two races and the humanoids were largely unsuccessful, causing the youkai-borns to dominate Gensokyo.
+
+One of Gensokyo's famous landmarks is the Hakurei Shrine in present-day Kozankyo, built more than 1,000 years ago. The chief priest or priestess who has the power to channel the gods has lived here, passing the ownership from generation to generation. It is located near the portals that lead to both the Aetherworld in the sky and the Netherworld underground. People who work for the shrine are tasked to prohibit youkai-borns from entering the shrine, and many legends say those who enter never leave.
+
+When the war broke out, the effectiveness of the seal began to fade, and the current shrine maiden, being Reimu Hakurei, has been trained extensively to prepare for an event like this. She was tasked to do the usual by stopping youkai-borns from entering the shrine. During the war, an intense force destroyed the shrine, in an attempt to take over the country. Emerging from the rubble, she has been given one goal in mind: find and defeat the culprit and end the war for good.
+
+Her only weapons are a purification rod, an infinite supply of throwing amulets, and the shrine's most prized treasure: the yin-yang orb. What fate will await her? Play to find out.
+
+---STARTING THE GAME---
+Double-click the .exe file to start the game.
+
+When the menu appears there will be four choices:
+*Aether Game - Starts a game on the Aether route.
+*Nether Game - Starts a game on the Nether route.
+*Sound Test - Listen to the game's soundtrack.
+*Exit - Closes the game.
+
+---HOW TO PLAY---
+Regular Rounds
+The goal of regular rounds is to use the Yin-yang orb to flip over all tiles. Once you do so, you will move onto the next round. If you can keep the orb floating in the air, you will score more points for each tile you hit. Each tile is worth 10 points multiplied by the world count. You will get an extra life at 40,000 points, another at 120,000, and every 120,000 after that.
+
+Boss Rounds
+Every five rounds you will encounter a boss. Like in regular stages, the yin-yang orb will be used against them. Against the boss' various attacks, white bullets and lasers can be deflected with your purification wand and slides. Amulets can destroy white bullets but not lasers.
+
+---CONTROLS---
+This game is meant to be played using an NES controller. The controls correspond as follows:
+
+D-pad: Move
+A button: Throw amulet
+B button: Swing wand/slide
+Select button: Use bomb
+
+---ITEMS---
+Point item: Increases your score by 100 multiplied by the current combo.
+Bomb: Gives you an additional bomb.
+
+---TIPS FOR SURVIVAL---
+Don't Use the Wand Excessively
+While it is possible to complete the game using the wand, it is much slower when you need to deflect a lot. To get around this, try sliding instead. You can also use amulets to destroy them too. Use this to get around a tight space!
+
+Slide When Cornered by Danmaku
+As mentioned above, you can slide to get around tight spaces.
+
+Time Wand Swings and Slides Carefully
+Some attacks are difficult to manage without using the wand or slide. There will be times when fast danmaku will approach you. Time it right to reflect them back.
+
+Look For Safe Spots During Difficult Attacks
+
+---ABOUT THE OPPONENTS---
+Round 5: Shingyoku
+This is a pretty easy boss. Just memorize its attacks.
+
+Round 10 Aether: YuugenMagan
+YuugenMagan may be small and a little tricky to hit, but you'll need some skill to aim the yin-yang orb at her.
+
+Round 10 Nether: Mima
+You'll need some skill to outrun her fast-moving danmaku. Lasers and bombs make her quite strong but she's short on endurance, meaning you can take her down quickly.
+
+Round 15 Aether: Elis
+She doesn't seem to like random movement. The first phase is the toughest.
+
+Round 15 Nether: Kikuri
+You better sharpen your reflexes.
+
+Round 20 Aether: Sariel Dreemurr
+Insanely tough at the beginning, but you can take her down quickly if you aim the yin-yang orb just right.
+
+Round 20 Nether: Konngara
+Her attacks are fairly strong and her last phase is the longest. Use the orb efficiently and dodge the best you can.
+
+---ABOUT DRILLIMATION SYSTEMS---
+How did you enjoy the Touhou 1: The Highly Responsive to Prayers NES demake? This is the first game of a five-part series of bringing the PC-98 Touhou games to Windows. Some of the other projects include:
+
+Touhou 1: The Highly Responsive to Prayers NES Demake
+An NES demake of the 1996 action-puzzle shooter featuring Reimu Hakurei as she challenges the Nether and Aetherworld. With a high difficulty level and a unique selection of mechanics and attacks, this is recommended for puzzle game fans seeking a challenge
+
+Chuhou Joutai: The Middle State of War
+A danmaku shooter inspired by the Golden Era of arcade games with unique mechanics to give beginners a chance to enter the world of danmaku. Has received rave reviews for its unique danmaku and retro gameplay.
+
+Chuhou Joutai is set in the same universe as Touhou Project, but 300 years into the future. There will be future games featuring The Real Driller.
