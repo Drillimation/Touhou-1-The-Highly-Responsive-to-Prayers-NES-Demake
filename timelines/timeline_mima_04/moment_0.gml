@@ -1,0 +1,1 @@
+ammo = (global.difficulty * 8) + 8;
